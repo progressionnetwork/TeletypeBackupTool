@@ -25,8 +25,8 @@ A comprehensive tool to backup Teletype blogs, capturing all posts, images, and 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/teletype-backup.git
-   cd teletype-backup
+   git clone https://github.com/progressionnetwork/TeletypeBackupTool.git
+   cd TeletypeBackupTool
    ```
 
 2. Install the required Python packages:
